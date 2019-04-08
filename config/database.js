@@ -5,5 +5,6 @@ module.exports = {
         'user': 'root',
         'password': ''
     },
-	'database': 'onlinefood'
+    'database': 'onlinefood',
+    'users_table': 'users'
 };
